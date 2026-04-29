@@ -1,4 +1,4 @@
-# Session 01 — Introduction to AI, Setup & First Scripts
+# Session 04 — Introduction to AI, Setup & First Scripts
 
 ## 🎯 What I Learned
 - Set up the Python environment and IDEs for data analysis
