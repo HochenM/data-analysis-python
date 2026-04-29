@@ -17,6 +17,9 @@ Step-by-step data analysis with Python — from NumPy fundamentals to statistica
 | 07 | Data Visualization — Seaborn | Numerical, Categorical, Distribution, Regression Plots | ✅ |
 | 08 | Exploratory Data Analysis (EDA) | Inferential Statistics, A/B Testing | ✅ |
 | 09 | Hypothesis Testing | T-Test, U-Test | ✅ |
+| 10 | Image Processing (Intro) | OpenCV Basics, Image I/O, Color Spaces, Transformations | ✅ |
+| 11 | Classification Metrics | Confusion Matrix, Accuracy, Precision, Recall, F1-Score | ✅ |
+| 12 | Data Cleaning & Preprocessing | Missing Values, Outliers, Data Extraction, Normalization, Scaling, Decoding | ✅ |
 
 ---
 
