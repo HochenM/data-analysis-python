@@ -15,6 +15,7 @@
 
 ## 📁 Files
 - `Session 0-1-Pandas1.ipynb` — Jupyter notebook with all exercises
+- `outputs/` — Visualizations and plots from this session
 
 ## 🔑 Key Pandas Operations Covered
 
