@@ -31,9 +31,7 @@
 | Learning Rate | `lr = 0.1` | Controls step size for GD convergence |
 | Bias Column | `np.c_[np.ones(n,1), X]` | Adds intercept term to features |
 
-
-
-🧠 Key Takeaways
+## 🧠 Key Takeaways
 Peaks and valleys are local extrema — find_peaks automates pattern detection
 
 Moving averages smooth noisy data — larger window = smoother but more lag
@@ -54,10 +52,4 @@ Learning rate 0.1 with 1000 iterations converged well for synthetic data
 
 Visualizing GD lines shows how the model progressively fits the data
 
-# SMA (Simple Moving Average)
-sma_14 = df.Close.rolling(14).mean()
-
-# Missing value imputation
-df.ffill()      # Forward fill
-df.bfill()      # Backward fill
-df.fillna(100)  # Fill with constant
+text
