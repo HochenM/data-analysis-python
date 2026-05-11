@@ -31,20 +31,6 @@
 | Learning Rate | `lr = 0.1` | Controls step size for GD convergence |
 | Bias Column | `np.c_[np.ones(n,1), X]` | Adds intercept term to features |
 
-## 🔧 Key Methods Used
-
-```python
-# Normal Equation
-thetas = np.linalg.inv(X_b.T @ X_b) @ X_b.T @ y
-
-# Gradient Descent
-for i in range(iterations):
-    gradient = 2/m * X_b.T @ (X_b @ thetas - y)
-    thetas = thetas - lr * gradient
-
-
-
-
 
 
 🧠 Key Takeaways
