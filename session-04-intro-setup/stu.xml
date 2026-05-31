@@ -1,0 +1,13 @@
+<students>
+    <student>
+        <name>ali</name>
+        <math>17</math>
+        <geo>15</geo>
+    </student>
+
+    <student>
+        <name>hossein</name>
+        <math>12</math>
+        <geo>10</geo>
+    </student>
+</students>
